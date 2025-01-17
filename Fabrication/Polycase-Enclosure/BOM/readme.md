@@ -1,6 +1,6 @@
 We're working on this page! An updated BOM will be added soon.
 
-# Bill of Materials for Polycase Design
+# Bill of Materials for SK-15-Enclosure Design
 Please note: Prices are listed in USD and are subject to change based on market value and availability.
 
 
@@ -11,10 +11,10 @@ Antenna (included in above) | Cellular communications | |
 MB7092 XL-MaxSonar-WRMA1 | Distance sensor | $99.95 | https://www.adafruit.com/product/1137
 Adalogger FeatherWing - RTC + SD Add-on For All Feather Boards | Data storage board | $8.95 | https://www.adafruit.com/product/2922
 Stacking header pins for FeatherWing | Stack Boron on FeatherWing | $1.95 | https://www.adafruit.com/product/2940
-ML-24F Outdoor NEMA Enclosure | Enclosure | $14.24 | https://www.polycase.com/ml-24f
-FormLabs Clear Resin V4 | Chassis to secure internal parts using | $150 per L | https://formlabs.com/store/materials/clear-resin-v4/
-Rounded Head Thread-Forming Screws for Brittle Plastic, 18-8 Stainless Steel, #4-24 1/4" long | Mounting chassis to Polycase | $5.29 per 100; $0.2116 per 4 | https://www.mcmaster.com/97349A415/
-18-8 Stainless Steel Socket Head Screw M2.5x0.45mm Thread, 18mm long | Mounting Boron + FeatherWing and antenna frame to chassis | $15.75 per 50; $1.26 per 4 | https://www.mcmaster.com/91292A028/
+SK-15 Enclosure with Knockouts | Polycase Enclosure | $20.92 | https://www.polycase.com/sk-15 
+SK-99 Mounting Kit for SK Series Enclosures | Feet for mounting enclosure | $3.36 | https://www.polycase.com/sk-99
+SK-97 Spacer Kit for SK Series Enclosures	| Spacer kit for mounting PCB inside enclosure | $1.35 | https://www.polycase.com/sk-97 
+UA-006 Vent Plug | Vent plug for a knockout to reduce preasue build-up due to temperature cycling | $3.89 | https://www.polycase.com/ua-006 
 18-8 Stainless Steel Hex Nut M2.5x0.45mm Thread, 2mm height | Receive chassis screws | $6.45 per 100; $0.258 per 4 | https://www.mcmaster.com/91828A113/
 SD/MicroSD Memory Card (8 GB SDHC) | Data storage | $9.95 | https://www.adafruit.com/product/1294
 3-pin cable | Power, ground, and analog signal to/from sonar | $0.95 | https://www.adafruit.com/product/4721
