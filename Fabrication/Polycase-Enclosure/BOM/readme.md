@@ -25,7 +25,6 @@ Plastic pipe fitting straight connector with hex body, 3/4 NPT Female	| for moun
 Plastic pipe fitting  reducer with hex nody, 3/4 NPT male x 1/2 NPT male |	for mounting sonar to polycase enclosure | $1.07 |  https://www.mcmaster.com/48335K167/ 
 1/2 NPT black locknut for continuous-flex | Plastic conduit fitting	for mounting sonar to polycase enclosure | $0.87 | https://www.mcmaster.com/3185K112/ 
 Gasket Washer, $7.22 pack of 25 |	for mounting sonar to polycase enclosure| $7.09 for 25 pack | https://www.mcmaster.com/5456K21/ 
-
 Cell plan (for now: Particle's Free Plan) | Cloud data management | $0.00 | [INSERT LINK]
 Approx. cost per sensor unit | | ~312 USD |
 
