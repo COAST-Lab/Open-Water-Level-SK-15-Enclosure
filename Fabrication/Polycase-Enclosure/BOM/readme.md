@@ -21,7 +21,11 @@ Grove cable, 4pos, 20cm, 5pack | Used to connect sensors with analog output, e.g
 5 Watt 5 Volt 35Wh Solar System | Solar charging | $99.00 | https://voltaicsystems.com/5-watt-5-volt-35wh-solar-system/
 Cable gland for 0.08"-0.24" Cord OD | Waterproof cable entry | $2.45 | https://www.digikey.com/en/products/detail/lapp/S2209/11200603
 1/2" x 520" PTFE pipe tape | Tape threads on distance sensor | $1.68 per roll | https://www.homedepot.com/p/William-H-Harvey-Company-1-2-in-x-520-in-White-PTFE-Tape-177333/100025685
-Loctite Epoxy Marine | Glue hex nuts to chassis, seal holes | $5.88 per 25 mL | https://www.loctiteproducts.com/products/central-pdp.html/loctite-epoxy-marine/SAP_0201OIL029V5.html
+Plastic pipe fitting straight connector with hex body, 3/4 NPT Female	| for mounting sonar to polycase enclosure | $3.37  | https://www.mcmaster.com/48335K143/
+Plastic pipe fitting  reducer with hex nody, 3/4 NPT male x 1/2 NPT male |	for mounting sonar to polycase enclosure | $1.07 |  https://www.mcmaster.com/48335K167/ 
+1/2 NPT black locknut for continuous-flex | Plastic conduit fitting	for mounting sonar to polycase enclosure | $0.87 | https://www.mcmaster.com/3185K112/ 
+Gasket Washer, $7.22 pack of 25 |	for mounting sonar to polycase enclosure| $7.09 for 25 pack | https://www.mcmaster.com/5456K21/ 
+
 Cell plan (for now: Particle's Free Plan) | Cloud data management | $0.00 | [INSERT LINK]
 Approx. cost per sensor unit | | ~312 USD |
 
