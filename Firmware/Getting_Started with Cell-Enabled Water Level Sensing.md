@@ -36,7 +36,7 @@ This section will take you through an exercise to set up your Boron device and p
 3. Create a new project by opening the Particle Command Palette (see: 'Useful features') and selecting 'Particle: Create New Project.' You can also click the blue text that says 'Create New Project' on the welcome page under Development Workflow -> Code.
 4. Choose the folder you just made on your computer for this class when asked to choose the 'parent' folder.
 5. Once you have the directory in which you want to store your Particle projects, create a project name (no spaces) ... Something like Blink_LED.
-6. Copy the code from the file named `Blink_LED.ino` (not the one you just made but from the example [here](https://github.com/SUPScientist/Smart-Coasts/blob/main/Class-01-Intro/Blink_LED.ino)).
+6. Copy the code from the file named `Blink_LED.cpp` (not the one you just made but from the example [here](https://github.com/SUPScientist/Smart-Coasts/blob/main/Class-01-Intro/Blink_LED.cpp)).
 7. Navigate to the .cpp file that is generated for your new project under the 'src' tab on the left-hand side of screen (under 'explorer').
 8. Delete all the text in the .cpp file after line 10 and paste the code you just copied.
 	- Note: Make sure you leave lines 9-10 (seen below), as your .cpp file will not run properly without line 10. <br />
