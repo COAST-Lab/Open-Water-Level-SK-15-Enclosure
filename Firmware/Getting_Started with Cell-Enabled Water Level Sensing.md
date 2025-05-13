@@ -25,7 +25,7 @@ Skip this section for now and try the **Practice Code with Boron** section first
 1. If you receive a "No Device Found" or "Serial Time Out" message when using "Particle: Identify" ... First, double-check that you have selected Boron in the bottom right bar, have selected the correct OS version (for me, it is 4.2.0), and put the device in listening mode (by pressing and holding the Mode button until the LED blinks blue). If those settings are correct but you're still having issues, try unplugging/replugging the device or restarting VS and/or your computer.
 2. If you have problems in **Practice code with Boron and Adalogger** ... If Initializing SD Card and initialization failed, check that the micro SD card is empty. Plug it into your computer, open the SD card, and delete every file on it.
 3. If met with unsuccessful compiling and a message stating that your file is dirty, try accepting the offer to 'clean' your file. If this doesn't fix the issue, try closing VS, deleting the project from your computer, and starting over.
-4. If every time you instal a library you recieve an error. Try logining into your particle acount. This is done by 
+4. If every time you instal a library you recieve an error. Try logining into your particle acount. This is done by typing into the command prompt or CLI '>particle: login'. Then enter your particle username and password. After loging in, try to reinstall the libary again. 
 
 ## Practice code with Boron
 This section will take you through an exercise to set up your Boron device and practice using code with it.
